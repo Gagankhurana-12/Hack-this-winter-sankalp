@@ -8,9 +8,9 @@
 
 Healthcare in India faces three critical barriers:
 
-1. **Language Barrier**: A Tamil-speaking patient cannot communicate with an English-speaking doctor. Rural patients speaking regional languages struggle to access quality healthcare.
+1. **Access Barrier**: 65% of India lives in rural areas without smartphones or reliable internet. They can't use app-based telemedicine.
 
-2. **Access Barrier**: 65% of India lives in rural areas without smartphones or reliable internet. They can't use app-based telemedicine.
+2. **Language Barrier**: A Tamil-speaking patient cannot communicate with an English-speaking doctor. Rural patients speaking regional languages struggle to access quality healthcare.
 
 3. **Follow-up Gap**: Doctors can't manually call every patient to check if they're taking medicines or monitor chronic conditions. Patients forget medications and miss follow-ups.
 
@@ -18,9 +18,9 @@ Healthcare in India faces three critical barriers:
 
 ## Our Solution
 
-Nirogya AI is an **agentic healthcare platform** that works for everyone - from a farmer in rural Punjab to a tech professional in Bangalore.
+Nirogya AI is an **agentic healthcare ecosystem** that works for everyone - from a farmer in rural Punjab to a tech professional in Bangalore.
 
-### For Rural Users (No Smartphone Needed)
+### For Rural Users (No Smartphone Needed No Internet Needed)
 
 **Just make a phone call.** That's it.
 
@@ -192,7 +192,7 @@ If response is normal → No action needed, doctor sees log later
 
 - **Video Call**: https://nirogyaa.vercel.app/
 - **Mobile App(Web version)**: https://m-app-livid.vercel.app/
-- **Demo Video**: https://drive.google.com/file/d/1RFm8fMxTzeESHpsGXYSjSmbP_ZtXaQ_Q/view?usp=sharing
+- **Call Demo Video**: [Google Drive Link](https://drive.google.com/file/d/1bLk1Tn4-eZJFaePfhOPLttUoVBwP6HEZ/view?usp=sharing)
 
 
 ---
@@ -201,3 +201,5 @@ If response is normal → No action needed, doctor sees log later
 
 - **[Technical Architecture](./ARCHITECTURE.md)** - Complete system architecture, API reference, data models, and technology stack
 - **[Future Features](./Future-Features.md)** - Planned enhancements, roadmap, and upcoming features
+
+##
