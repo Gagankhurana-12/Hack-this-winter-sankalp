@@ -192,7 +192,7 @@ If response is normal → No action needed, doctor sees log later
 
 - **Video Call**: https://nirogyaa.vercel.app/
 - **Mobile App(Web version)**: https://m-app-livid.vercel.app/
-- **Demo Video**: https://www.youtube.com/embed/ffu7DFClbbc
+- **Demo Video**: https://drive.google.com/file/d/1RFm8fMxTzeESHpsGXYSjSmbP_ZtXaQ_Q/view?usp=sharing
 
 
 ---
